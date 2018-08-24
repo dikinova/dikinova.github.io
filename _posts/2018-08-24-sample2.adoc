@@ -1,6 +1,8 @@
+---
+layout: post
+permalink: /sample/
+---
 = Sample Page
-:page-layout: post
-:page-permalink: /sample/
 :uri-asciidoctor: http://asciidoctor.org
 
 This is a sample page composed in AsciiDoc.
