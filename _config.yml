@@ -21,3 +21,8 @@ github_username:  jekyll
 markdown: kramdown
 
 gems: [jekyll-asciidoc]
+
+asciidoc: {}
+asciidoctor: {}
+
+
